@@ -89,7 +89,6 @@ We do not just write code; we engineer solutions that address genuine technical 
 <p align="center">
   <sub>
     Managed by <strong>Zenqor Technologies</strong> (SSM: 202603157897 (JM1045730-D))<br>
-    Built with innovation in Malaysia · <a href="https://zenqor-tech.kauaku.store">zenqor-tech.kauaku.store</a><br>
-    <img src="https://hit.yey.pw/zenqor?theme=dark" alt="Visitor Count" />
+    Built with innovation in Malaysia · <a href="https://zenqor-tech.kauaku.store">zenqor-tech.kauaku.store</a>
   </sub>
 </p>
