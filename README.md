@@ -19,10 +19,12 @@
 
 ---
 
-### 🛠 Infrastructure & Performance
-<p align="left">
+<h3 align="center">🛠 Infrastructure & Performance</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,lua,github,firebase,gcp,git,docker,linux" alt="Tech Stack" />
 </p>
+
+---
 
 ### 📈 Strategic Focus (June 2026)
 **At Zenqor, we prioritize:**
@@ -30,6 +32,12 @@
 - **Modular Architecture:** Building systems that are maintainable, flexible, and ready for future evolution.
 - **System Resilience:** Designing infrastructure capable of withstanding extreme workloads.
 - **Workflow Automation:** Reducing manual intervention through intelligent system integration.
+
+<br>
+
+---
+
+<br>
 
 ### 💡 Why Partners Choose Zenqor Technologies?
 We do not just write code; we engineer solutions that address genuine technical challenges to keep your business competitive and relevant.
