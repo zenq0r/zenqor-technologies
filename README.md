@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://zenqor.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=32CD32&vCenter=true&width=600&repeat=false&lines=Core+Infrastructure+Development.;Expertise+in+High-Concurrency+Scripting.;Building+the+next+generation+of+Server+Solutions." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=32CD32&center=true&vCenter=true&width=600&repeat=false&lines=Core+Infrastructure+Development.;Expertise+in+High-Concurrency+Scripting.;Building+the+next+generation+of+Server+Solutions." alt="Typing Animation" />
   </a>
 </p>
 
@@ -19,14 +19,16 @@
 
 ---
 
-<h3 align="center">🛠 Infrastructure & Performance</h3>
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=🛠+Infrastructure+%26+Performance" alt="Infrastructure & Performance" />
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,lua,github,firebase,gcp,git,docker,linux" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 Strategic Focus (June 2026)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=📈+Strategic+Focus+(June+2026)" alt="Strategic Focus" />
+
 **At Zenqor, we prioritize:**
 - **Latency Optimization:** Ensuring rapid system response for superior user experiences.
 - **Modular Architecture:** Building systems that are maintainable, flexible, and ready for future evolution.
@@ -39,7 +41,8 @@
 
 <br>
 
-### 💡 Why Partners Choose Zenqor Technologies?
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=650&repeat=false&lines=💡+Why+Partners+Choose+Zenqor+Technologies%3F" alt="Why Partners Choose Zenqor Technologies?" />
+
 We do not just write code; we engineer solutions that address genuine technical challenges to keep your business competitive and relevant.
 
 1. **Custom FiveM Frameworks:** We develop scripts with high code integrity, specifically tailored for maximum server stability.
@@ -58,14 +61,15 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 ---
 
-### 💻 Activity Graph
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=💻+Activity+Graph" alt="Activity Graph" />
+
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 📖 The Mission Behind the Scenes
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=📖+The+Mission+Behind+the+Scenes" alt="The Mission Behind the Scenes" />
 
 <details>
   <summary><strong>The Zenqor Manifesto — An Evolving Vision &rarr;</strong></summary>
