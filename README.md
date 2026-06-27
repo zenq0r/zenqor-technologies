@@ -1,43 +1,37 @@
-<div align="center">
+<h1 align="center">Zenqor Technologies</h1>
 
-# Zenqor Technologies
-
-**Engineering Resilient Ecosystems & Scalable Digital Foundations**
-
-*Based in Malaysia 🇲🇾 | Engineering global solutions*
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=32CD32&vCenter=true&width=900&repeat=false&lines=Core+Infrastructure+Development.;Expertise+in+High-Concurrency+Scripting.;Building+the+next+generation+of+Server+Solutions.)](https://zenqor.com)
-
-<p>
-  <a href="https://zenqor.com"><b>Official Website</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><b>Public Projects</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:contact@zenqor.com"><b>Contact Us &rarr;</b></a>
+<p align="center">
+  <strong>Engineering Resilient Ecosystems & Scalable Digital Foundations</strong><br>
+  <em>Based in Malaysia 🇲🇾 | Engineering global solutions</em>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://zenqor.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=32CD32&vCenter=true&width=600&repeat=false&lines=Core+Infrastructure+Development.;Expertise+in+High-Concurrency+Scripting.;Building+the+next+generation+of+Server+Solutions." alt="Typing Animation" />
+  </a>
+</p>
 
-### 🛠 Infrastructure & Performance
-
-<img src="https://skillicons.dev/icons?i=js,lua,github,firebase,gcp,git,docker,linux" alt="Tech Stack" />
-
-</div>
+<p align="center">
+  <a href="https://zenqor.com">Official Website</a> &nbsp;•&nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">Public Projects</a> &nbsp;•&nbsp;
+  <a href="mailto:contact@zenqor.com">Contact Us &rarr;</a>
+</p>
 
 ---
 
-### 📈 Strategic Focus (June 2026)
+### 🛠 Infrastructure & Performance
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,lua,github,firebase,gcp,git,docker,linux" alt="Tech Stack" />
+</p>
 
+### 📈 Strategic Focus (June 2026)
 **At Zenqor, we prioritize:**
 - **Latency Optimization:** Ensuring rapid system response for superior user experiences.
 - **Modular Architecture:** Building systems that are maintainable, flexible, and ready for future evolution.
 - **System Resilience:** Designing infrastructure capable of withstanding extreme workloads.
 - **Workflow Automation:** Reducing manual intervention through intelligent system integration.
 
----
-
 ### 💡 Why Partners Choose Zenqor Technologies?
-
 We do not just write code; we engineer solutions that address genuine technical challenges to keep your business competitive and relevant.
 
 1. **Custom FiveM Frameworks:** We develop scripts with high code integrity, specifically tailored for maximum server stability.
@@ -56,13 +50,10 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 ---
 
-<div align="center">
-
 ### 💻 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -83,12 +74,10 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 ---
 
-<div align="center">
-
-<sub>
-  Managed by **Zenqor Technologies**<br>
-  Built with innovation in Malaysia · [Zenqor.com](https://zenqor.com)<br>
-  <img src="https://hit.yey.pw/zenqor?theme=dark" alt="Visitor Count" />
-</sub>
-
-</div>
+<p align="center">
+  <sub>
+    Managed by <strong>Zenqor Technologies</strong><br>
+    Built with innovation in Malaysia · <a href="https://zenqor.com">Zenqor.com</a><br>
+    <img src="https://hit.yey.pw/zenqor?theme=dark" alt="Visitor Count" />
+  </sub>
+</p>
