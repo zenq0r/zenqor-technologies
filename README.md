@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://zenqor.com">
+  <a href="https://zenqor-tech.kauaku.store">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=32CD32&center=true&vCenter=true&width=600&repeat=false&lines=Core+Infrastructure+Development.;Expertise+in+High-Concurrency+Scripting.;Building+the+next+generation+of+Server+Solutions." alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://zenqor.com">Official Website</a> &nbsp;•&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">Public Projects</a> &nbsp;•&nbsp;
-  <a href="mailto:contact@zenqor.com">Contact Us &rarr;</a>
+  <a href="https://zenqor-tech.kauaku.store">Official Website</a> &nbsp;•&nbsp;
+  <a href="https://github.com/zenq0r">Public Projects</a> &nbsp;•&nbsp;
+  <a href="mailto:zenqortech@gmail.com">Contact Us &rarr;</a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ We do not just write code; we engineer solutions that address genuine technical 
 8. **Performance Analytics:** Creating custom dashboards that provide clear insights into your system's health.
 9. **API Interconnectivity:** Seamlessly linking third-party services into your core ecosystem.
 10. **Code Flexibility:** We provide a development environment that allows for limitless product expansion.
-11. **Technical Support:** [Join the Zenqor community](https://zenqor.com/community)
+11. **Technical Support:** [Join the Zenqor community](https://zenqor-tech.kauaku.store/community)
 
 > **Technical Note:** Continuously monitor system logs to detect anomalies before they impact the end user.
 
@@ -64,7 +64,7 @@ We do not just write code; we engineer solutions that address genuine technical 
 ![Activity Graph](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=Activity+Graph)
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenq0r&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -88,8 +88,8 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 <p align="center">
   <sub>
-    Managed by <strong>Zenqor Technologies</strong><br>
-    Built with innovation in Malaysia · <a href="https://zenqor.com">Zenqor.com</a><br>
+    Managed by <strong>Zenqor Technologies</strong> (SSM: 202603157897 (JM1045730-D))<br>
+    Built with innovation in Malaysia · <a href="https://zenqor-tech.kauaku.store">zenqor-tech.kauaku.store</a><br>
     <img src="https://hit.yey.pw/zenqor?theme=dark" alt="Visitor Count" />
   </sub>
 </p>
