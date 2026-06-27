@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=🛠+Infrastructure+%26+Performance" alt="Infrastructure & Performance" />
+![Infrastructure & Performance](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=Infrastructure+%26+Performance)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,lua,github,firebase,gcp,git,docker,linux" alt="Tech Stack" />
@@ -27,7 +27,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=📈+Strategic+Focus+(June+2026)" alt="Strategic Focus" />
+![Strategic Focus](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=Strategic+Focus+(June+2026))
 
 **At Zenqor, we prioritize:**
 - **Latency Optimization:** Ensuring rapid system response for superior user experiences.
@@ -41,7 +41,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=650&repeat=false&lines=💡+Why+Partners+Choose+Zenqor+Technologies%3F" alt="Why Partners Choose Zenqor Technologies?" />
+![Why Partners Choose Zenqor Technologies](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=650&repeat=false&lines=Why+Partners+Choose+Zenqor+Technologies%3F)
 
 We do not just write code; we engineer solutions that address genuine technical challenges to keep your business competitive and relevant.
 
@@ -61,7 +61,7 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=💻+Activity+Graph" alt="Activity Graph" />
+![Activity Graph](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=Activity+Graph)
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
@@ -69,7 +69,7 @@ We do not just write code; we engineer solutions that address genuine technical 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=📖+The+Mission+Behind+the+Scenes" alt="The Mission Behind the Scenes" />
+![The Mission Behind the Scenes](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&vCenter=true&width=600&repeat=false&lines=The+Mission+Behind+the+Scenes)
 
 <details>
   <summary><strong>The Zenqor Manifesto — An Evolving Vision &rarr;</strong></summary>
