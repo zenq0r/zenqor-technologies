@@ -1,8 +1,8 @@
 <h1 align="center">Zenqor Technologies</h1>
 
 <p align="center">
-  <strong>Engineering Resilient Ecosystems & Scalable Digital Foundations</strong><br>
-  <em>Based in Malaysia 🇲🇾 | Engineering global solutions</em>
+  <strong>Scalable Digital Solutions. Engineered for Growth.</strong><br>
+  <em>Built in Malaysia 🇲🇾 | Serving Clients Worldwide</em>
 </p>
 
 <p align="center">
